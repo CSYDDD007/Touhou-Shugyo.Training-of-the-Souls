@@ -1,0 +1,118 @@
+{
+    "0": {
+        "message": {
+            "text": "Project",
+            "image": [
+                "pyimage2"
+            ],
+            "values": [
+                1
+            ],
+            "open": 1,
+            "tags": [
+                "folder"
+            ]
+        },
+        "0": {
+            "message": {
+                "text": "Resources",
+                "image": [
+                    "pyimage2"
+                ],
+                "values": [
+                    1
+                ],
+                "open": 0,
+                "tags": [
+                    "folder"
+                ]
+            }
+        },
+        "1": {
+            "message": {
+                "text": "Classes",
+                "image": [
+                    "pyimage2"
+                ],
+                "values": [
+                    1
+                ],
+                "open": 1,
+                "tags": [
+                    "folder"
+                ]
+            },
+            "0": {
+                "message": {
+                    "text": "Stage Group \"Extra\"",
+                    "image": [
+                        "pyimage12"
+                    ],
+                    "values": [
+                        "Extra"
+                    ],
+                    "open": 1,
+                    "tags": [
+                        "stagegroup"
+                    ]
+                },
+                "0": {
+                    "message": {
+                        "text": "Stage \"Stage1\"",
+                        "image": [
+                            "pyimage14"
+                        ],
+                        "values": [
+                            "Stage1"
+                        ],
+                        "open": 1,
+                        "tags": [
+                            "stage"
+                        ]
+                    },
+                    "0": {
+                        "message": {
+                            "text": "Create Action",
+                            "image": [
+                                "pyimage16"
+                            ],
+                            "values": "",
+                            "open": 1,
+                            "tags": [
+                                "action"
+                            ]
+                        },
+                        "0": {
+                            "message": {
+                                "text": "Initialize",
+                                "image": [
+                                    "pyimage2"
+                                ],
+                                "values": "",
+                                "open": 0,
+                                "tags": [
+                                    "folder"
+                                ]
+                            }
+                        },
+                        "1": {
+                            "message": {
+                                "text": "Wait 60 frame(s)",
+                                "image": [
+                                    "pyimage4"
+                                ],
+                                "values": [
+                                    60
+                                ],
+                                "open": 0,
+                                "tags": [
+                                    "wait"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

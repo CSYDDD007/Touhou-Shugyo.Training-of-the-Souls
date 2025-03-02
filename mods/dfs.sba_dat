@@ -1,0 +1,355 @@
+{
+    "0": {
+        "message": {
+            "text": "Project",
+            "image": [
+                "pyimage2"
+            ],
+            "values": [
+                1
+            ],
+            "open": 0,
+            "tags": [
+                "folder"
+            ]
+        }
+    },
+    "1": {
+        "message": {
+            "text": "(New Object)",
+            "image": [
+                "pyimage8"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "new_object"
+            ]
+        }
+    },
+    "2": {
+        "message": {
+            "text": "Loop",
+            "image": [
+                "pyimage6"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "looping"
+            ]
+        }
+    },
+    "3": {
+        "message": {
+            "text": "Bullet",
+            "image": [
+                "pyimage10"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "bullet"
+            ]
+        },
+        "0": {
+            "message": {
+                "text": "Wait",
+                "image": [
+                    "pyimage4"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "timer"
+                ]
+            }
+        },
+        "1": {
+            "message": {
+                "text": "(New Object)",
+                "image": [
+                    "pyimage8"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "new_object"
+                ]
+            },
+            "0": {
+                "message": {
+                    "text": "Folder",
+                    "image": [
+                        "pyimage2"
+                    ],
+                    "values": "",
+                    "open": 0,
+                    "tags": [
+                        "folder"
+                    ]
+                }
+            },
+            "1": {
+                "message": {
+                    "text": "Loop",
+                    "image": [
+                        "pyimage6"
+                    ],
+                    "values": "",
+                    "open": 0,
+                    "tags": [
+                        "looping"
+                    ]
+                }
+            },
+            "2": {
+                "message": {
+                    "text": "Bullet",
+                    "image": [
+                        "pyimage10"
+                    ],
+                    "values": "",
+                    "open": 0,
+                    "tags": [
+                        "bullet"
+                    ]
+                }
+            }
+        },
+        "2": {
+            "message": {
+                "text": "Wait",
+                "image": [
+                    "pyimage4"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "timer"
+                ]
+            }
+        }
+    },
+    "4": {
+        "message": {
+            "text": "BGM",
+            "image": [
+                "pyimage20"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "bgm"
+            ]
+        }
+    },
+    "5": {
+        "message": {
+            "text": "Enemy",
+            "image": [
+                "pyimage18"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "enemy"
+            ]
+        }
+    },
+    "6": {
+        "message": {
+            "text": "Loop",
+            "image": [
+                "pyimage6"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "looping"
+            ]
+        },
+        "0": {
+            "message": {
+                "text": "Bullet",
+                "image": [
+                    "pyimage10"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "bullet"
+                ]
+            }
+        },
+        "1": {
+            "message": {
+                "text": "(New Object)",
+                "image": [
+                    "pyimage8"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "new_object"
+                ]
+            }
+        },
+        "2": {
+            "message": {
+                "text": "Bullet",
+                "image": [
+                    "pyimage10"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "bullet"
+                ]
+            }
+        }
+    },
+    "7": {
+        "message": {
+            "text": "Bullet",
+            "image": [
+                "pyimage10"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "bullet"
+            ]
+        }
+    },
+    "8": {
+        "message": {
+            "text": "Sound",
+            "image": [
+                "pyimage22"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "sound"
+            ]
+        },
+        "0": {
+            "message": {
+                "text": "(New Object)",
+                "image": [
+                    "pyimage8"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "new_object"
+                ]
+            }
+        },
+        "1": {
+            "message": {
+                "text": "(New Object)",
+                "image": [
+                    "pyimage8"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "new_object"
+                ]
+            }
+        }
+    },
+    "9": {
+        "message": {
+            "text": "Loop",
+            "image": [
+                "pyimage6"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "looping"
+            ]
+        }
+    },
+    "10": {
+        "message": {
+            "text": "Folder",
+            "image": [
+                "pyimage2"
+            ],
+            "values": "",
+            "open": false,
+            "tags": [
+                "folder"
+            ]
+        },
+        "0": {
+            "message": {
+                "text": "Action",
+                "image": [
+                    "pyimage16"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "action"
+                ]
+            }
+        },
+        "1": {
+            "message": {
+                "text": "Stagegroup",
+                "image": [
+                    "pyimage12"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "stagegroup"
+                ]
+            }
+        },
+        "2": {
+            "message": {
+                "text": "Stage",
+                "image": [
+                    "pyimage14"
+                ],
+                "values": "",
+                "open": 0,
+                "tags": [
+                    "stage"
+                ]
+            }
+        }
+    },
+    "11": {
+        "message": {
+            "text": "Bullet",
+            "image": [
+                "pyimage10"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "bullet"
+            ]
+        }
+    },
+    "12": {
+        "message": {
+            "text": "Bullet",
+            "image": [
+                "pyimage10"
+            ],
+            "values": "",
+            "open": 0,
+            "tags": [
+                "bullet"
+            ]
+        }
+    }
+}

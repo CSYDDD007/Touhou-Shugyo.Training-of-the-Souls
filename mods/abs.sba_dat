@@ -1,0 +1,553 @@
+{
+    "0": {
+        "message": {
+            "text": "Project",
+            "image": [
+                "pyimage2"
+            ],
+            "values": [
+                1
+            ],
+            "open": 1,
+            "tags": [
+                "Folder"
+            ]
+        },
+        "0": {
+            "message": {
+                "text": "Resources",
+                "image": [
+                    "pyimage2"
+                ],
+                "values": [
+                    1
+                ],
+                "open": 1,
+                "tags": [
+                    "Folder"
+                ]
+            }
+        },
+        "1": {
+            "message": {
+                "text": "Classes",
+                "image": [
+                    "pyimage2"
+                ],
+                "values": [
+                    1
+                ],
+                "open": 1,
+                "tags": [
+                    "Folder"
+                ]
+            },
+            "0": {
+                "message": {
+                    "text": "Stage Group \"Easy\"",
+                    "image": [
+                        "pyimage12"
+                    ],
+                    "values": [
+                        "Easy"
+                    ],
+                    "open": 1,
+                    "tags": [
+                        "StageGroup"
+                    ]
+                },
+                "0": {
+                    "message": {
+                        "text": "Stage \"Stage1\"",
+                        "image": [
+                            "pyimage14"
+                        ],
+                        "values": [
+                            "Stage1"
+                        ],
+                        "open": 1,
+                        "tags": [
+                            "Stage"
+                        ]
+                    },
+                    "0": {
+                        "message": {
+                            "text": "Create Action",
+                            "image": [
+                                "pyimage16"
+                            ],
+                            "values": "",
+                            "open": 1,
+                            "tags": [
+                                "Action"
+                            ]
+                        },
+                        "0": {
+                            "message": {
+                                "text": "Repeat",
+                                "image": [
+                                    "pyimage6"
+                                ],
+                                "values": [
+                                    -1,
+                                    1,
+                                    "{}"
+                                ],
+                                "open": 1,
+                                "tags": [
+                                    "Repeat"
+                                ]
+                            },
+                            "0": {
+                                "message": {
+                                    "text": "Repeat",
+                                    "image": [
+                                        "pyimage6"
+                                    ],
+                                    "values": [
+                                        10,
+                                        0,
+                                        "{}"
+                                    ],
+                                    "open": 1,
+                                    "tags": [
+                                        "Repeat"
+                                    ]
+                                },
+                                "0": {
+                                    "message": {
+                                        "text": "Bullet",
+                                        "image": [
+                                            "pyimage10"
+                                        ],
+                                        "values": [
+                                            0,
+                                            0,
+                                            "0,0",
+                                            10,
+                                            0,
+                                            "True",
+                                            "False",
+                                            "True",
+                                            100,
+                                            "False",
+                                            0,
+                                            0,
+                                            0
+                                        ],
+                                        "open": 1,
+                                        "tags": [
+                                            "Bullet"
+                                        ]
+                                    }
+                                }
+                            },
+                            "1": {
+                                "message": {
+                                    "text": "Sound",
+                                    "image": [
+                                        "pyimage22"
+                                    ],
+                                    "values": [
+                                        "pause_sound",
+                                        50
+                                    ],
+                                    "open": 1,
+                                    "tags": [
+                                        "Sound"
+                                    ]
+                                }
+                            },
+                            "2": {
+                                "message": {
+                                    "text": "Wait",
+                                    "image": [
+                                        "pyimage4"
+                                    ],
+                                    "values": [
+                                        30
+                                    ],
+                                    "open": 1,
+                                    "tags": [
+                                        "Wait"
+                                    ]
+                                }
+                            },
+                            "3": {
+                                "message": {
+                                    "text": "Repeat",
+                                    "image": [
+                                        "pyimage6"
+                                    ],
+                                    "values": [
+                                        10,
+                                        0,
+                                        "{}"
+                                    ],
+                                    "open": true,
+                                    "tags": [
+                                        "Repeat"
+                                    ]
+                                },
+                                "0": {
+                                    "message": {
+                                        "text": "Bullet",
+                                        "image": [
+                                            "pyimage10"
+                                        ],
+                                        "values": [
+                                            0,
+                                            0,
+                                            "0,0",
+                                            10,
+                                            0,
+                                            "True",
+                                            "False",
+                                            "True",
+                                            100,
+                                            "False",
+                                            0,
+                                            0,
+                                            0
+                                        ],
+                                        "open": 0,
+                                        "tags": [
+                                            "Bullet"
+                                        ]
+                                    }
+                                }
+                            },
+                            "4": {
+                                "message": {
+                                    "text": "Wait",
+                                    "image": [
+                                        "pyimage4"
+                                    ],
+                                    "values": [
+                                        60
+                                    ],
+                                    "open": 0,
+                                    "tags": [
+                                        "Wait"
+                                    ]
+                                }
+                            }
+                        },
+                        "1": {
+                            "message": {
+                                "text": "Initialize",
+                                "image": [
+                                    "pyimage2"
+                                ],
+                                "values": "",
+                                "open": 1,
+                                "tags": [
+                                    "Folder"
+                                ]
+                            }
+                        },
+                        "2": {
+                            "message": {
+                                "text": "Wait 60 frame(s)",
+                                "image": [
+                                    "pyimage4"
+                                ],
+                                "values": [
+                                    60
+                                ],
+                                "open": 1,
+                                "tags": [
+                                    "Wait"
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "1": {
+                "message": {
+                    "text": "Stage Group \"Normal\"",
+                    "image": [
+                        "pyimage12"
+                    ],
+                    "values": [
+                        "Normal"
+                    ],
+                    "open": 1,
+                    "tags": [
+                        "StageGroup"
+                    ]
+                },
+                "0": {
+                    "message": {
+                        "text": "Stage \"Stage1\"",
+                        "image": [
+                            "pyimage14"
+                        ],
+                        "values": [
+                            "Stage1"
+                        ],
+                        "open": 1,
+                        "tags": [
+                            "Stage"
+                        ]
+                    },
+                    "0": {
+                        "message": {
+                            "text": "Create Action",
+                            "image": [
+                                "pyimage16"
+                            ],
+                            "values": "",
+                            "open": 1,
+                            "tags": [
+                                "Action"
+                            ]
+                        },
+                        "0": {
+                            "message": {
+                                "text": "Initialize",
+                                "image": [
+                                    "pyimage2"
+                                ],
+                                "values": "",
+                                "open": 1,
+                                "tags": [
+                                    "Folder"
+                                ]
+                            }
+                        },
+                        "1": {
+                            "message": {
+                                "text": "Wait 60 frame(s)",
+                                "image": [
+                                    "pyimage4"
+                                ],
+                                "values": [
+                                    60
+                                ],
+                                "open": 1,
+                                "tags": [
+                                    "Wait"
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "2": {
+                "message": {
+                    "text": "Stage Group \"Hard\"",
+                    "image": [
+                        "pyimage12"
+                    ],
+                    "values": [
+                        "Hard"
+                    ],
+                    "open": 1,
+                    "tags": [
+                        "StageGroup"
+                    ]
+                },
+                "0": {
+                    "message": {
+                        "text": "Stage \"Stage1\"",
+                        "image": [
+                            "pyimage14"
+                        ],
+                        "values": [
+                            "Stage1"
+                        ],
+                        "open": 1,
+                        "tags": [
+                            "Stage"
+                        ]
+                    },
+                    "0": {
+                        "message": {
+                            "text": "Create Action",
+                            "image": [
+                                "pyimage16"
+                            ],
+                            "values": "",
+                            "open": 1,
+                            "tags": [
+                                "Action"
+                            ]
+                        },
+                        "0": {
+                            "message": {
+                                "text": "Initialize",
+                                "image": [
+                                    "pyimage2"
+                                ],
+                                "values": "",
+                                "open": 1,
+                                "tags": [
+                                    "Folder"
+                                ]
+                            }
+                        },
+                        "1": {
+                            "message": {
+                                "text": "Wait 60 frame(s)",
+                                "image": [
+                                    "pyimage4"
+                                ],
+                                "values": [
+                                    60
+                                ],
+                                "open": 1,
+                                "tags": [
+                                    "Wait"
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "3": {
+                "message": {
+                    "text": "Stage Group \"Lunatic\"",
+                    "image": [
+                        "pyimage12"
+                    ],
+                    "values": [
+                        "Lunatic"
+                    ],
+                    "open": 1,
+                    "tags": [
+                        "StageGroup"
+                    ]
+                },
+                "0": {
+                    "message": {
+                        "text": "Stage \"Stage1\"",
+                        "image": [
+                            "pyimage14"
+                        ],
+                        "values": [
+                            "Stage1"
+                        ],
+                        "open": 1,
+                        "tags": [
+                            "Stage"
+                        ]
+                    },
+                    "0": {
+                        "message": {
+                            "text": "Create Action",
+                            "image": [
+                                "pyimage16"
+                            ],
+                            "values": "",
+                            "open": 1,
+                            "tags": [
+                                "Action"
+                            ]
+                        },
+                        "0": {
+                            "message": {
+                                "text": "Initialize",
+                                "image": [
+                                    "pyimage2"
+                                ],
+                                "values": "",
+                                "open": 1,
+                                "tags": [
+                                    "Folder"
+                                ]
+                            }
+                        },
+                        "1": {
+                            "message": {
+                                "text": "Wait 60 frame(s)",
+                                "image": [
+                                    "pyimage4"
+                                ],
+                                "values": [
+                                    60
+                                ],
+                                "open": 1,
+                                "tags": [
+                                    "Wait"
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            "4": {
+                "message": {
+                    "text": "Stage Group \"Extra\"",
+                    "image": [
+                        "pyimage12"
+                    ],
+                    "values": [
+                        "Extra"
+                    ],
+                    "open": 1,
+                    "tags": [
+                        "StageGroup"
+                    ]
+                },
+                "0": {
+                    "message": {
+                        "text": "Stage \"Stage1\"",
+                        "image": [
+                            "pyimage14"
+                        ],
+                        "values": [
+                            "Stage1"
+                        ],
+                        "open": 1,
+                        "tags": [
+                            "Stage"
+                        ]
+                    },
+                    "0": {
+                        "message": {
+                            "text": "Create Action",
+                            "image": [
+                                "pyimage16"
+                            ],
+                            "values": "",
+                            "open": 1,
+                            "tags": [
+                                "Action"
+                            ]
+                        },
+                        "0": {
+                            "message": {
+                                "text": "Initialize",
+                                "image": [
+                                    "pyimage2"
+                                ],
+                                "values": "",
+                                "open": 1,
+                                "tags": [
+                                    "Folder"
+                                ]
+                            }
+                        },
+                        "1": {
+                            "message": {
+                                "text": "Wait 60 frame(s)",
+                                "image": [
+                                    "pyimage4"
+                                ],
+                                "values": [
+                                    60
+                                ],
+                                "open": 1,
+                                "tags": [
+                                    "Wait"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
