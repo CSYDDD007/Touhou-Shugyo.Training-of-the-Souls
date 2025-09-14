@@ -1,0 +1,125 @@
+<html>
+<head>
+<meta charset="utf-8" />
+<title>PySTG Basic</title>
+</head>
+<body>
+    <h1>PySTG Basic</h1>
+    <h2>Structure of the project</h2>
+    <p>There are 3 folders at the beginning:
+    <ul>
+        <li>Resource(Use for load resources)</li>
+        <li>Classes(Use for deinfe object, background, enemy, bullet, boss)</li>
+        <li>Main(Use for control the game process)</li>
+    </ul>
+    <h2>ToolBar</h2>
+    <p>There are totally 10 genres in the ToolBar:
+    <ul>
+        <li>General</li>
+        <li>Stage</li>
+        <li>Times</li>
+        <li>Enemy</li>
+        <li>Boss</li>
+        <li>Bullet</li>
+        <li>Audio</li>
+        <li>Background</li>
+        <li>Resource</li>
+        <li>Object</li>
+    </ul>
+    </p>
+    <h3>General</h3>
+    <p>There are 6 nodes in General Type:
+    <ul>
+        <li>Folder: Use for putting other nodes</li>
+        <li>Code: Write Python Code to control the game more flexible</li>
+        <li>Comment: Use for Documentory</li>
+        <li>If: branch</li>
+        <li>Else If: still branch, need to be placed on the bottom of [If node]</li>
+        <li>Else: also branch, need to be placed on the bottom of [If node] or [Else If node]</li>
+    </ul>
+    <h3>Stage</h3>
+    <p>There are 3 nodes in Stage Type:
+    <ul>
+        <li>Rank: Define a rank, need to be placed inside the [main folder]</li>
+        <li>Stage: Define a stage, need to be placed inside the [Rank node]</li>
+        <li>Stage Title: Show the title of stage</li>
+    </ul>
+    <h3>Times</h3>
+    <p>There are 5 nodes in Times Type:
+        <ul>
+            <li>Thread: Create a thread, use for independent time</li>
+            <li>Wait: Create a pause between nodes</li>
+            <li>Repeat: Create a repeat</li>
+            <li>Break: Break the current repeat, need to have a [Repeat node] father</li>
+            <li>Continue: Skip the current repeat step, need to have a [Repeat node] father</li>
+        </ul>
+    <h3>Enemy</h3>
+    <p>There are 2 nodes in Enemy Type:
+        <ul>
+            <li>Create Enemy: Create a defined enemy</li>
+            <li>Enemy Class: Define a enemy class, need to be placed inside the [Classes folder]</li>
+        </ul>
+    <h3>Boss</h3>
+    <p>There are 6 nodes in Boss Type:
+        <ul>
+            <li>Create Boss: Create a define boss</li>
+            <li>Boss Class: Define a boss class, need to be placed inside the [Classes folder]</li>
+            <li>SpellCard: Define a SpellCard, need to be placed inside the [Boss Class node]</li>
+            <li>Dialog Group: Define a Dialog Group, need to be placed inside the [Boss Class node]</li>
+            <li>Dialog: Create a dialog, need to be placed inside the [Dialog Group node]</li>
+            <li>Move to: Call the boss move to somewhere, need to have a [Boss Class node] father</li>
+        </ul>
+    <h3>Bullet</h3>
+    <p>There are 3 nodes in Bullet Type:
+        <ul>
+            <li>Create Simple Bullet: Create a simple bullet</li>
+            <li>Create Bullet: Create a defined bullet</li>
+            <li>Bullet Class: Define a bullet class, need to be placed inside the [Classes folder]</li>
+        </ul>
+    <h3>Audio</h3>
+    <p>There are 2 nodes in Audio Type:
+        <ul>
+            <li>Sound: Play sound</li>
+            <li>Music: Play BGM</li>
+        </ul>
+    <h3>Background</h3>
+    <p>There are 4 nodes in Background Type:
+        <ul>
+            <li>Create Background: Create a defined background</li>
+            <li>Clear Backgrounds: Clear all backgrounds</li>
+            <li>Background Class: Define a background class, need to be placed inside the [Classes folder]</li>
+            <li>Layer Class: Define a layer class, need to be placed inside the [Background Class node]</li>
+        </ul>
+    <h3>Resource</h3>
+    <p>There are 3 nodes in Resource Type:
+        <ul>
+            <li>Load Image: load image from files, need to be placed inside the [Resource folder]</li>
+            <li>Load Sound: load sound from files, need to be placed inside the [Resource folder]</li>
+            <li>Load Music: load music from files, need to be placed inside the [Resource folder]</li>
+        </ul>
+    <h3>Object</h3>
+    <p>There are 5 nodes in Object Type:
+        <ul>
+            <li>Variable: Set a variable</li>
+            <li>Velocity: Change the velocity of something</li>
+            <li>Tweening: Call a tweening to a variable</li>
+            <li>Create Object: Create a defined object</li>
+            <li>Object Class: Define a object class</li>
+        </ul>
+    <h2>Overall Bar</h2>
+    <p>There are 3 buttons in Overall Bar</p>
+        <ul>
+            <li>Copy: Copy a selected node with its children</li>
+            <li>Paste: Paste the copied nodes into the project(according the insert mode)</li>
+            <li>Delete: Delete a selected node with its children</li>
+        </ul>
+    <h3>How to insert nodes?</h3>
+    <p>There are 3 selection buttons in the Overall Bar</p>
+        <ul>
+            <li>Insert Up Mode: insert a node/nodes on the top of a selected node</li>
+            <li>Insert Inside Mode: insert a node/nodes inside a selected node(as the children of selected node)</li>
+            <li>Insert Down Mode: insert a node/nodes on the bottom of a selected node</li>
+        </ul>
+</body>
+
+</html>
