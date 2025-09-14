@@ -505,7 +505,7 @@ class CreateObjectFrame(EditFrame):
         self.get_all_data()
         v = [self.value_dicts["Object Name"]]
         v += self.p
-        tree.item(tree.selection(), text=f"Create Object '{self.value_dicts["Object Name"]}'", values=v)
+        tree.item(tree.selection(), text="Create Object {}".format(self.value_dicts["Object Name"]), values=v)
 
 class SettingEditFrame(EditFrame):
     def __init__(self, master):
@@ -917,7 +917,7 @@ class CreateBulletFrame(EditFrame):
         self.get_all_data()
         v = [self.value_dicts["Bullet Name"]]
         v += self.p
-        tree.item(tree.selection(), text=f"Create Bullet \'{self.value_dicts["Bullet Name"]}\'", values=v)
+        tree.item(tree.selection(), text="Create Bullet '{}'".format(self.value_dicts["Bullet Name"]), values=v)
 
 class ClearBulletFrame(EditFrame):
     def __init__(self, master):
@@ -1095,7 +1095,7 @@ class CreateEnemyFrame(EditFrame):
         self.get_all_data()
         v = [self.value_dicts["Enemy Name"]]
         v += self.p
-        tree.item(tree.selection(), text=f"Create Enemy \'{self.value_dicts["Enemy Name"]}\'", values=v)
+        tree.item(tree.selection(), text="Create Enemy '{}'".format(self.value_dicts["Enemy Name"]), values=v)
         
 class BossClassFrame(EditFrame):
     def __init__(self, master):
