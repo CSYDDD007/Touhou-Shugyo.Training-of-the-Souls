@@ -7,13 +7,15 @@ Making with python, it is a STG editor with simple game engine which is similar 
 Just a study project...
 
 Run the __\_\_init\_\_.py__ to start the program, just register with any account.  
+Python 3.8 or above is required.  
 __Requirements:__  
 pygame==2.6.1  
 customtkinter==5.2.2  
 numpy==2.1.3  
 pillow==10.4.0  
 pytweening==1.2.0  
-After enter to the Editor, choose [Help] to know more about the operations.
+First time running may cause lagging, play once to solve this problem.  
+After enter to the Editor, choose [Help] to know more about the operations.  
 
 Give credit to ZUN team and Touhou Project for the arts, soundeffect and the gameplay.  
 Welcome for study purpose but not commercial purpose, otherwise __ZUN team__ would find you.
